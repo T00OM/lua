@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0d47d2c-1d9f-4d17-bd06-92d084cf3fc9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WL2jZCjauUuLaHwQIa2SwwjnGq" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../openresty-1.15.8.2-win64/luajit.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jj\Desktop\Lua\src\oop\private" />
+      <recent name="C:\Users\jj\Desktop\Lua\src\metatable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Lua Application.test.lua (3)">
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="C:\Users\jj\Desktop\openresty-1.15.8.2-win64\luajit.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$PROJECT_DIR$/src" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="isempty.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="C:\Users\jj\Desktop\openresty-1.15.8.2-win64\luajit.exe" />
+      <option name="file" value="array/isempty.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/src" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.lua (1)" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="C:\Users\jj\Desktop\openresty-1.15.8.2-win64\luajit.exe" />
+      <option name="file" value="regex/test.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/src" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.lua (2)" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="C:\Users\jj\Desktop\openresty-1.15.8.2-win64\luajit.exe" />
+      <option name="file" value="dot/test.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/src" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.lua (3)" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="C:\Users\jj\Desktop\openresty-1.15.8.2-win64\luajit.exe" />
+      <option name="file" value="module/test.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/src" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="C:\Users\jj\Desktop\openresty-1.15.8.2-win64\luajit.exe" />
+      <option name="file" value="array/test.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/src" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Lua Application.test.lua" />
+      <item itemvalue="Lua Application.isempty.lua" />
+      <item itemvalue="Lua Application.test.lua (1)" />
+      <item itemvalue="Lua Application.test.lua (2)" />
+      <item itemvalue="Lua Application.test.lua (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Lua Application.test.lua (3)" />
+        <item itemvalue="Lua Application.test.lua (2)" />
+        <item itemvalue="Lua Application.test.lua (1)" />
+        <item itemvalue="Lua Application.isempty.lua" />
+        <item itemvalue="Lua Application.test.lua" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d47d2c-1d9f-4d17-bd06-92d084cf3fc9" name="Default Changelist" comment="" />
+      <created>1578914689518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578914689518</updated>
+      <workItem from="1578914697303" duration="319000" />
+      <workItem from="1578915048557" duration="236000" />
+      <workItem from="1578915318628" duration="736000" />
+      <workItem from="1579054183747" duration="498000" />
+      <workItem from="1579055000935" duration="10910000" />
+      <workItem from="1579399341413" duration="6179000" />
+      <workItem from="1580054597844" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
